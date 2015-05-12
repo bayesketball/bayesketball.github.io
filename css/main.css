@@ -4,6 +4,11 @@
   border-top: 1px solid #dbdbdb
 }
 
+/* Banner background. */
+div.bayesketball-title {
+	background: url(../img/home_bg.jpg) center;
+}
+
 .picture-and-about{
   
 }
